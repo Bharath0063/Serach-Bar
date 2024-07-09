@@ -1,0 +1,16 @@
+
+.container{
+    margin:50px;
+    justify-content: center;
+    text-align: center;
+    
+}
+img{
+    width: 15px;
+    height:14px;
+}
+input{
+    height: 23px;
+    
+
+}
